@@ -11,7 +11,8 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/review")
-@CrossOrigin(origins = "http://localhost:5173")
+// @CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://ai-code-reviewer-nine-coral.vercel.app")
 
 public class CodeReviewController {
 
