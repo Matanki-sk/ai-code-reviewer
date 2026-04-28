@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+const API = import.meta.env.VITE_API_URL;
 
 const SECTION_CONFIG = [
   {
