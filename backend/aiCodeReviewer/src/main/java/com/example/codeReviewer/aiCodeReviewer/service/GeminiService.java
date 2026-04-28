@@ -128,16 +128,7 @@ public class GeminiService {
                 7. If no serious issues exist, say the code is acceptable.
                 8. Focus primarily on correctness, security, performance, and maintainability.
 
-                SECTION RULES:
-
-                Issues Found:
-                Only include actual defects, runtime bugs, security flaws, incorrect logic, crashes, leaks, or measurable performance problems.
-
-                Improvements:
-                Include refactoring ideas, readability enhancements, maintainability upgrades, naming, modularization, constants, cleaner APIs, and optional optimizations.
-
-                Do not duplicate items across sections.
-                Always include 1-3 Improvements when reasonable.
+            
 
                 INSTRUCTIONS:
                 1. Auto-detect the programming language.
