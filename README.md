@@ -38,13 +38,6 @@ Built using **React + Spring Boot + Groq LLM API**.
 - Groq API
 - Prompt Engineering
 
----
-
-## 📸 Screenshots
-
-_Add screenshots after deployment._
-
----
 
 ## ⚙️ Run Locally
 
@@ -101,17 +94,7 @@ http://localhost:8080
 
 **Matanki S K**
 
-```
 
----
 
-# Why This Version Better
-
-✅ Proper markdown formatting  
-✅ Cleaner GitHub look  
-✅ No broken code blocks  
-✅ Recruiter ready
-
----
 
 
